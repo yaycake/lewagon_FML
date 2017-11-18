@@ -1,0 +1,3 @@
+<!--pages/random/random.wxml-->
+<text>pages/random/random.wxml</text>
+<view class="banner"><image class= "avatar" src="/images/martin_fabien.jpg"></image></view>

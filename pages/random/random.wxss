@@ -1,0 +1,9 @@
+/* pages/random/random.wxss */
+.avatar {
+  height: 100px;
+  width: 100px;
+}
+
+.banner {
+  backgroundColor: "#0f5a88",
+}
